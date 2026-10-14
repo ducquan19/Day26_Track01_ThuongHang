@@ -8,11 +8,11 @@
 
 |MSSV|Họ và tên|Phần phụ trách|Góp ý đã đưa cho nhóm bạn
 |---|---|---|---|
-|Đặng Văn Thái Anh|2A202602407|||
-|Nguyễn Thị Bảo Trang|2A202602580|||
-|Đoàn Quang Thanh|2A202602841|||
-|Vũ Quang Tiến|2A202602872|||
-|Trần Đức Quân|2A202602922|||
+|Đặng Văn Thái Anh|2A202602407|AI PO / Điều phối & Tổng hợp Memo | **Góp ý cho Nhóm 02:** Chỉ số "Số lượt Login" là activity metric, đề xuất đổi sang "Tỷ lệ tác vụ hoàn thành tự động". |
+|Nguyễn Thị Bảo Trang|2A202602580|AI Engineer / Gartner-Lite & Technical Audit | **Góp ý cho Nhóm 02:** Sơ đồ TO-BE còn thiếu bước xử lý khi AI trả lời dính thông tin nhạy cảm. |
+|Đoàn Quang Thanh|2A202602841|Data Expert / Mollick Framework & Gold Dataset | **Góp ý cho Nhóm 04:** Cột Owner ở tầng đo lường giá trị còn để trống, cần gán trách nhiệm cụ thể cho Data Lead. |
+|Vũ Quang Tiến|2A202602872|UI/UX Designer / ADKAR Diagnosis & Workflow | **Góp ý cho Nhóm 04:** Cần bổ sung hành động khắc phục cụ thể khi tỷ lệ làm lại (re-work) tăng quá 15%. |
+|Trần Đức Quân|2A202602922|Ops Specialist / Dashboard v1 & v2 | **Góp ý cho Nhóm 06:** Nguồn dữ liệu thời gian xử lý cần ghi rõ lấy từ Task Log hệ thống thay vì tự khai. |
 
 ---
 
